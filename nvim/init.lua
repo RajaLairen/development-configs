@@ -1,0 +1,5 @@
+require("raja.plugin-setup")
+require("raja.plugins")
+require("raja.core.option")
+require("raja.core.colorscheme")
+require("raja.core.keymaps")
